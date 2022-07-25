@@ -6,7 +6,7 @@
 `At present, Chinese mainland play, Taiwan, Hong Kong can be normal use`
 
 ### Description
-`In and out of the battle when the alert, Speak in a group or group while interrupting a hostile spell casting spell`
+`In and out of the battle when the alert, Speak in a group or group while interrupting a hostile spell casting spell，Monitor interrupters, objects, and spells of interruption`
 
 
 ### Features
@@ -17,9 +17,24 @@
 #### github code
 https://github.com/chenbool/ClassicCy
 
-
 JOIN US ON QQ Group: 484043598
 
+#### Help
+- You can enter: /ccy in the chat box
+- /ccy view command list
+
+#### Features in Progress
+- Bugfixes
+- Game adaptation
+
+#### ChangeLog
+- v3.0.4 Version number updated with the game
+- v3.0.3 The interrupt prompt switch can be turned off normally
+- v3.0.2 Some details of prompt logic are improved, and an irrelevant code is deleted
+- v3.0.1 Revise slashcmd A global function is missing in Lua
+- v3.0.0 Added command line /ccy enter help to view help
+- v2.0.0 Increased the spells of interrupter, interrupter and interrupter
+- v1.0.0 Plug in release
 
 
 ---
