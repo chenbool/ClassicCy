@@ -1,6 +1,6 @@
-**在 PVP 和 PVE 中完全可玩**
+## **在 PVP 和 PVE 中完全可玩**
 
-现在支持 SHADOWLANDS 和 WOW CLASSIC
+`现在支持 SHADOWLANDS 和 WOW CLASSIC`
 
 为魔兽世界添加了战斗状态提示。 
 此插件不应干扰您当前的热键设置或配置。
@@ -30,24 +30,24 @@ https://github.com/chenbool/ClassicCy
 
 
 #### 变更日志
-- v3.0.4 by yeunga[NGA]2022-07-23
+- v3.0.4 by yeunga[NGA] 2022-07-23
   * 1.随游戏更新了版本号。
 
-- v3.0.3 by yeunga[NGA]2019-12-11
+- v3.0.3 by yeunga[NGA] 2019-12-11
     * 1.打断提示开关可以正常关闭了。
 
 
-- v3.0.2 by yeunga[NGA]2019-12-8
+- v3.0.2 by yeunga[NGA] 2019-12-8
     * 1.完善了提示逻辑上的一些细节。
     * 2.删除了一处无关代码。
     * 3.修改了ANSI GB2312为UTF8,以防MAC客户端乱码。
 
 
-- v3.0.1 by yeunga[NGA]2019-12-04
+- v3.0.1 by yeunga[NGA] 2019-12-04
     * 1.修正SLASHCMD.lua中一处global function 缺失。
 
 
-- v3.0.0 by yeunga[NGA]2019-12-03
+- v3.0.0 by yeunga[NGA] 2019-12-03
     * 1.优化了lua结构。
     * 2.增加了命令行/ccy 输入help可查看帮助。
 
