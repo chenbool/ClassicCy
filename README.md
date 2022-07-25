@@ -1,3 +1,28 @@
+
+### FULLY PLAYABLE IN PVP AND PVE
+
+`NOW SUPPORTS SHADOWLANDS & WOW CLASSIC`
+
+### Description
+`In and out of the battle when the alert, Speak in a group or group while interrupting a hostile spell casting spell`
+
+
+### Features
+- In and out of the battle when the alert
+- Speak in a group or group while interrupting a hostile spell casting spell
+
+
+#### github code
+https://github.com/chenbool/ClassicCy
+
+
+JOIN US ON QQ Group: 484043598
+
+
+
+---
+
+
 ## **在 PVP 和 PVE 中完全可玩**
 
 `现在支持 SHADOWLANDS 和 WOW CLASSIC`
@@ -6,7 +31,6 @@
 此插件不应干扰您当前的热键设置或配置。
 
 #### github 源码
-
 https://github.com/chenbool/ClassicCy
 
 加入我们的 QQ群: 484043598
@@ -14,13 +38,14 @@ https://github.com/chenbool/ClassicCy
 #### 说明：
 `进出战斗时醒目提示、在打断敌对施法条时在小队或团队进行喊话`
 
-#### 特征：
+#### 功能：
 - 进出战斗时醒目提示
 - 打断敌对施法条时在小队或团队进行喊话
 
 #### 使用帮助
 - 你可以在聊天框输入: /ccy
 - /ccy 查看命令列表
+
 
 #### 正在开发的功能
 - 游戏适配
