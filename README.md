@@ -3,6 +3,8 @@
 
 `NOW SUPPORTS SHADOWLANDS & WOW CLASSIC`
 
+`At present, Chinese mainland play, Taiwan, Hong Kong can be normal use`
+
 ### Description
 `In and out of the battle when the alert, Speak in a group or group while interrupting a hostile spell casting spell`
 
